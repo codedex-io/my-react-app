@@ -1,6 +1,6 @@
 # Codédex + Vite
 
-![Social Post Demo GIF](/images/social-post-react.gif)
+![Social Post Demo GIF](/src/social-post-react.gif)
 
 **Important:** This is a templatae specifically made for our React course at Codédex. It was curated from the default boilerplate code you'd typically see in a freshly-created React app a la Vite.
 
