@@ -2,7 +2,7 @@
 
 ![Social Post Demo GIF](/src/social-post-react.gif)
 
-**Important:** This is a templatae specifically made for our React course at Codédex. It was curated from the default boilerplate code you'd typically see in a freshly-created React app a la Vite.
+**Important:** This is a template specifically made for our React course at Codédex. It was curated from the default boilerplate code you'd typically see in a freshly-created React app a la Vite.
 
 This template provides a minimal setup to get React working in Vite with [hot module replacement (HMR)](https://vitejs.dev/guide/features.html#hot-module-replacement) and some ESLint rules.
 
