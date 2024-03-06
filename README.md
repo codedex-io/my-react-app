@@ -1,4 +1,4 @@
-# Codédex + Vite
+# Codédex + React
 
 ![Social Post Demo GIF](/src/social-post-react.gif)
 
