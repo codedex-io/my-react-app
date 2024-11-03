@@ -27,6 +27,6 @@ Below are the main files used in a Vite React app:
 - **index.html** - The place where the root of the React app (i.e., `<div id="root"></div>`)
 - **package-lock.json** - A confirmation of the outside code used in `package.json` and their versions.
 - **package.json** - A running list of the outside code used to make this app run, including `react`, `react-dom`, and `vite`.
-- **READEME.md** - The file you are reading right now.
+- **README.md** - The file you are reading right now.
 - **vite.config.js** - This repo was originally a default Vite React app, and these are its settings.
 
